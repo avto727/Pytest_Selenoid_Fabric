@@ -1,0 +1,10 @@
+Fabric3==1.13.1.post1
+pytest
+pytest-metadata
+pytest-html
+pytest-json
+selenium
+pytest-pep8
+pytest-xdist
+pycodestyle==2.5.0
+flake8==3.7.9
