@@ -93,6 +93,7 @@ video/*
 # Spyder project settings
 .spyderproject
 .spyproject
+venv3
 
 # Rope project settings
 .ropeproject
